@@ -1,0 +1,6 @@
+lidor 
+tubul
+age
+24
+from
+shlomi
